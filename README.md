@@ -1,8 +1,7 @@
 # Create Active Directory User Accounts 
 
 This PowerShell script automates the task if creating a user account in AD, setting a temporary password, making the user change their password upon logging in, and enabling the account
-
---- 
+ 
 ## How To Execute This Script
 
 For this script to execute, you must meet the following requirements first:
