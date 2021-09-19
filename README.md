@@ -19,7 +19,6 @@ Inside the script, you MUST specify the path to the OU (Organizational Unit), in
 
 After successfully entering the first and last name, the user account will be created within AD. 
 
----
 
 ## How To Find OU Path
 
